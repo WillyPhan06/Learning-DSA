@@ -1,0 +1,1 @@
+So this DSA C++ journey here prepares me for upcoming hackathon contest in Vietnam on 25th May with ICPC format. I plan to study along side with USACO guide and ChatGPT, i plan to grind USACO up to at least gold level and be familiar with many common problems in upcoming contest. C++ is super fast and low level, definitely a W in competitive programming
